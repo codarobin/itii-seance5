@@ -13,8 +13,12 @@
  - CHECK Firmware des disques
  - Upload Frirmware File
 ## Configuration ISCSI
+#### Configuration des interfaces sur les storage processeur (SP)
+|  |  |
+|--|--|
+|  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjQzMzg3MiwtMjUzMTQxOTM1LC01MT
-g5NjkwMTQsMTUyNzIwNTkxN119
+eyJoaXN0b3J5IjpbMjExOTU2OTQzNiwxNTgyNDMzODcyLC0yNT
+MxNDE5MzUsLTUxODk2OTAxNCwxNTI3MjA1OTE3XX0=
 -->
