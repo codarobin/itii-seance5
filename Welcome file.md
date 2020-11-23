@@ -9,6 +9,5 @@
 ## Configuration ISCSI
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzIwNTkxNywyMTA2MjIwOTI0LC0zMj
-UyOTAwNjRdfQ==
+eyJoaXN0b3J5IjpbMTUyNzIwNTkxN119
 -->
