@@ -18,9 +18,11 @@
 |--|--|--|
 | Ethernet Port 2|SP A| 10.0.10.1 |
 | Ethernet Port 2 |SP B| 10.0.20.1 |
-## Ajout du vCenter
+## Configuration pour vCenter
+#### Ajout du vCenter
+#### Création des datastores VMFS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDQ5OTg3MywxOTQ0MDQzNzQwLDE1OD
-I0MzM4NzIsLTI1MzE0MTkzNSwtNTE4OTY5MDE0LDE1MjcyMDU5
-MTddfQ==
+eyJoaXN0b3J5IjpbLTgwNjQ0NTA3OSwxNzAwNDk5ODczLDE5ND
+QwNDM3NDAsMTU4MjQzMzg3MiwtMjUzMTQxOTM1LC01MTg5Njkw
+MTQsMTUyNzIwNTkxN119
 -->
