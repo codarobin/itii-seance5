@@ -5,10 +5,9 @@
  - UNITY Bas -> ports (7,19)
  - UNITY Haut -> ports (6,18)
  #### Configuration VLAN 108
- ![CONF SWITCH](https://photos.app.goo.gl/fsbZCCR85cty6Zf4A)
 
 ## Configuration ISCSI
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTI5MDA2NF19
+eyJoaXN0b3J5IjpbMTcwNjU2MTA3NSwtMzI1MjkwMDY0XX0=
 -->
