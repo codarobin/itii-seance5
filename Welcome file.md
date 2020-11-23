@@ -16,10 +16,10 @@
 #### Configuration des interfaces sur les storage processeur (SP)
 | Port Ethernet | SP |IP|
 |--|--|--|
-| Ethernet Port 2|   |  |
-| Ethernet Port 2 |  |  |
+| Ethernet Port 2|SP A| 10.0.10.1 |
+| Ethernet Port 2 |SP B| 10.0.20.1 |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDMzMzQwNCwxNTgyNDMzODcyLC0yNT
+eyJoaXN0b3J5IjpbMTk0NDA0Mzc0MCwxNTgyNDMzODcyLC0yNT
 MxNDE5MzUsLTUxODk2OTAxNCwxNTI3MjA1OTE3XX0=
 -->
