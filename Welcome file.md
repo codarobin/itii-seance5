@@ -6,8 +6,11 @@
  - UNITY Haut -> ports (6,18)
  #### Configuration VLAN 108
 ![Configuration Port To Vlan.png](https://ibb.co/cFVFgWc)
+## Configuration POOL
+#### POOL1 EN RAID5
 ## Configuration ISCSI
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODk2OTAxNCwxNTI3MjA1OTE3XX0=
+eyJoaXN0b3J5IjpbLTI1MzE0MTkzNSwtNTE4OTY5MDE0LDE1Mj
+cyMDU5MTddfQ==
 -->
