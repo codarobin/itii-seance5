@@ -14,11 +14,12 @@
  - Upload Frirmware File
 ## Configuration ISCSI
 #### Configuration des interfaces sur les storage processeur (SP)
-| Port Ethernet | SP |	|
-|--|--|
-|  |  |
+| Port Ethernet | SP |IP|
+|--|--|--|
+| Ethernet Port 2|   |  |
+| Ethernet Port 2 |  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzUwMTc1OSwxNTgyNDMzODcyLC0yNT
+eyJoaXN0b3J5IjpbLTk5MDMzMzQwNCwxNTgyNDMzODcyLC0yNT
 MxNDE5MzUsLTUxODk2OTAxNCwxNTI3MjA1OTE3XX0=
 -->
