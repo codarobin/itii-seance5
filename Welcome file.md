@@ -16,13 +16,13 @@
 #### Configuration des interfaces sur les storage processeur (SP)
 | Port Ethernet | SP |IP|
 |--|--|--|
-| Ethernet Port 2|SP A| 10.0.10.1 |
-| Ethernet Port 2 |SP B| 10.0.20.1 |
+| Ethernet Port 4|SP A| 10.0.10.1 |
+| Ethernet Port 4 |SP B| 10.0.20.1 |
 ## Configuration pour vCenter
 #### Ajout du vCenter
 #### Création des datastores VMFS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjQ0NTA3OSwxNzAwNDk5ODczLDE5ND
-QwNDM3NDAsMTU4MjQzMzg3MiwtMjUzMTQxOTM1LC01MTg5Njkw
-MTQsMTUyNzIwNTkxN119
+eyJoaXN0b3J5IjpbLTE1MzkwMTA5MDMsLTgwNjQ0NTA3OSwxNz
+AwNDk5ODczLDE5NDQwNDM3NDAsMTU4MjQzMzg3MiwtMjUzMTQx
+OTM1LC01MTg5NjkwMTQsMTUyNzIwNTkxN119
 -->
