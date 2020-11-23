@@ -18,8 +18,9 @@
 |--|--|--|
 | Ethernet Port 2|SP A| 10.0.10.1 |
 | Ethernet Port 2 |SP B| 10.0.20.1 |
-
+## Ajout du vCenter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDA0Mzc0MCwxNTgyNDMzODcyLC0yNT
-MxNDE5MzUsLTUxODk2OTAxNCwxNTI3MjA1OTE3XX0=
+eyJoaXN0b3J5IjpbMTcwMDQ5OTg3MywxOTQ0MDQzNzQwLDE1OD
+I0MzM4NzIsLTI1MzE0MTkzNSwtNTE4OTY5MDE0LDE1MjcyMDU5
+MTddfQ==
 -->
