@@ -8,9 +8,11 @@
 ![Configuration Port To Vlan.png](https://ibb.co/cFVFgWc)
 ## Configuration POOL
 #### POOL1 EN RAID5
+## MAJ disk Firmware
+####CHECK Firmware des disques
 ## Configuration ISCSI
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzE0MTkzNSwtNTE4OTY5MDE0LDE1Mj
-cyMDU5MTddfQ==
+eyJoaXN0b3J5IjpbLTE1NzY4OTY3NiwtMjUzMTQxOTM1LC01MT
+g5NjkwMTQsMTUyNzIwNTkxN119
 -->
